@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     UILabel *lable = [[UILabel alloc] init];
     [self.view addSubview:lable];
+    // test in 2014/12/20   
 }
 
 - (void)didReceiveMemoryWarning {
