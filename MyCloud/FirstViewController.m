@@ -22,6 +22,8 @@
     // test in 2014/12/20
     
     // tesst  network avaible
+    
+    //test again
 }
 
 - (void)didReceiveMemoryWarning {
