@@ -20,7 +20,7 @@
     UILabel *lable = [[UILabel alloc] init];
     [self.view addSubview:lable];
     // test in 2014/12/20
-    
+    // test git push
     // tesst  network avaible
     
     //test again
